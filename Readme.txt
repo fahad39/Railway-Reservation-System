@@ -1,7 +1,7 @@
                                       Project Railway Reservation System
 
 Fahad Hussain( SP17-BCS-015)
-Muhammad Uzair (SP17-BCS-78)
+
 
 Settings
 If database is not working properly then check the path.
